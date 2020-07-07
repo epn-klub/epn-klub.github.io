@@ -10,7 +10,7 @@
 <p>Rezedová 12</p>
 <p>90027 Bernolákovo</p>
 <p>Slovenská republika</p>
-<p>epn.o.z.slovensko (zavináč) gmail.com</p>
+<p>epn.o.z.slovensko (zavináč) gmail(bodka)com</p>
   
 <p><em>Na stránke sa momentálne pracuje
 </em></p>
