@@ -10,5 +10,8 @@
 90027 Bernolákovo
 Slovenská republika</p>
 <p>epn.o.z.slovensko (zavináč) gmail.com</p>
+  
+<p>Na stránke sa momentálne pracuje</p>
+
 </body>
 </html>
