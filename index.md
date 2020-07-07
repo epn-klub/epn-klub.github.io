@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<title>index.md</title>
 </head>
 <body>
 <h1>Vitajte na webovej stránke športového klubu EPN o.z.</h1>
