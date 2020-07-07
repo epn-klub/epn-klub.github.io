@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Vitajte na webovej stránke športového klubu EPN o.z.</h1>
-<p><img alt="EPN_logo" src="./EPN_logo2"></p>
+<p><img alt="EPN_logo" src="./EPN_logo2.png"></p>
 <h2>Kontakt</h2>
 <p>Rezedová 12
 90027 Bernolákovo
